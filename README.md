@@ -1,3 +1,4 @@
+![Texto alternativo](src/stock-market-6531146_1280.jpg)
 # PI_2_DA
 
 ## Cryptocurrency Market Data Analytics
@@ -36,6 +37,8 @@ El análisis se centra en identificar oportunidades y riesgos dentro del mercado
 ## Indicadores Clave de Desempeño (KPIs) en el Tablero
 En el informe se utilizan varios Indicadores Clave de Desempeño para evaluar y comparar el rendimiento de diferentes criptomonedas. Estos KPIs incluyen volatilidad, rendimiento histórico y correlaciones entre monedas.
 
+![Texto alternativo](src/cryptocurrency-3409725_1280.jpg)
+
 ## Tokens Seleccionados
 Se han elegido cuidadosamente al menos 10 criptomonedas para este análisis. Estas selecciones se basan en criterios como capitalización de mercado, crecimiento reciente, innovación tecnológica y caso de uso. Cada una de estas criptomonedas se examina en detalle.
 
@@ -69,8 +72,6 @@ Dogecoin (DOGE) comenzó como una criptomoneda de broma basada en un popular mem
 ### Solana
 Solana (SOL) es una blockchain de alto rendimiento diseñada para aplicaciones descentralizadas y finanzas descentralizadas (DeFi). Ofrece una escalabilidad excepcionalmente rápida y tarifas bajas a través de su arquitectura única. Solana se ha destacado en el espacio DeFi debido a su capacidad para manejar una gran cantidad de transacciones a alta velocidad.
 
-## ¡Aquí Presentamos una Descripción Breve de las Criptomonedas Seleccionadas para Este Proyecto!
-A continuación, se proporciona información concisa sobre cada una de las criptomonedas seleccionadas. Se destacan sus características distintivas y su relevancia en el mercado actual.
 
 ## En Conclusión
 El análisis de datos realizado arroja luz sobre el mercado de criptomonedas y sus tendencias. Se ofrecen recomendaciones basadas en los hallazgos, incluidas estrategias potenciales de inversión y formas de gestionar los riesgos asociados. Es importante tener en cuenta la volatilidad y la naturaleza cambiante de este mercado al considerar cualquier decisión de inversión.
