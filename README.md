@@ -12,7 +12,7 @@
 
 <p align="justify">
 
-  Crear una carpeta con el nombre de **dataset** ahi es donde se guardaran y exportaran los csv
+  Se guasrdan los dataframe en un folder con el mismo nombre Dataframe
 
   🐍**Python**:  Es un lenguaje de programación de alto nivel, interpretado, versátil y de propósito general que se caracteriza por su simplicidad y legibilidad. 
 
@@ -44,9 +44,9 @@ En el informe se utilizan varios Indicadores Clave de Desempeño para evaluar y 
 
 - **capitalizacion de mercado:** Es el valor total de todas las criptomonedas presentes en el mercado en un momento específico. Es un indicador fundamental para evaluar la importancia y la tendencia general del mercado de criptomonedas.
 
-- **Variación de Precios Promedio Mensual:** Es la fluctuación porcentual promedio de los precios de las criptomonedas seleccionadas en un período mensual específico. Es un indicador crucial para evaluar la volatilidad y la tendencia de los precios a lo largo del tiempo.
+- **Variación de precios Promedio:** Es la fluctuación porcentual promedio de los precios de las criptomonedas seleccionadas en un período específico. Es un indicador crucial para evaluar la volatilidad y la tendencia de los precios a lo largo del tiempo.
 
-- **volatilidad de monedas:** Es una medida crítica para evaluar el riesgo asociado con un activo, incluidas las criptomonedas. Un alto nivel de volatilidad puede indicar que el precio de una criptomoneda puede cambiar significativamente en un corto período de tiempo, lo que puede generar oportunidades de ganancias, pero también aumenta el riesgo de pérdidas.
+- **Volatilidad de monedas:** Es una medida crítica para evaluar el riesgo asociado con un activo, incluidas las criptomonedas. Un alto nivel de volatilidad puede indicar que el precio de una criptomoneda puede cambiar significativamente en un corto período de tiempo, lo que puede generar oportunidades de ganancias, pero también aumenta el riesgo de pérdidas.
 
 
 
