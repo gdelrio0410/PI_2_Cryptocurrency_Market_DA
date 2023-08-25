@@ -22,6 +22,8 @@
 
   📈**Matplotlib**:  Biblioteca de visualización de datos en Python que permite crear gráficos y visualizaciones de manera efectiva.
 
+  📈**plotly**:  Biblioteca de visualización de datos en Python que permite crear gráficos y visualizaciones de manera efectiva.
+
 
 # Análisis de Datos del Mercado de Criptomonedas
 
@@ -37,9 +39,18 @@ En esta sección, se realiza un análisis en profundidad de los datos recopilado
 ## Descripción
 El análisis se centra en identificar oportunidades y riesgos dentro del mercado de criptomonedas. Se examina el rendimiento histórico, las razones detrás de los cambios significativos en los precios y otros factores que puedan influir en las decisiones de inversión.
 
-## Indicadores Clave de Desempeño (KPIs) en el Tablero
+## Indicadores Clave de Desempeño (KPIs)
 En el informe se utilizan varios Indicadores Clave de Desempeño para evaluar y comparar el rendimiento de diferentes criptomonedas. Estos KPIs incluyen volatilidad, rendimiento histórico y correlaciones entre monedas.
 
+- **capitalizacion de mercado:** Es el valor total de todas las criptomonedas presentes en el mercado en un momento específico. Es un indicador fundamental para evaluar la importancia y la tendencia general del mercado de criptomonedas.
+
+- **Variación de Precios Promedio Mensual:** Es la fluctuación porcentual promedio de los precios de las criptomonedas seleccionadas en un período mensual específico. Es un indicador crucial para evaluar la volatilidad y la tendencia de los precios a lo largo del tiempo.
+
+- **volatilidad de monedas:** Es una medida crítica para evaluar el riesgo asociado con un activo, incluidas las criptomonedas. Un alto nivel de volatilidad puede indicar que el precio de una criptomoneda puede cambiar significativamente en un corto período de tiempo, lo que puede generar oportunidades de ganancias, pero también aumenta el riesgo de pérdidas.
+
+
+
+-------
 ![Texto alternativo](src/cryptocurrency-3409725_1280.jpg)
 
 ## Tokens Seleccionados
