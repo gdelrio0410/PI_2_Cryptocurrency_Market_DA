@@ -1,7 +1,10 @@
-![Texto alternativo](src/stock-market-6531146_1280.jpg)
-# PI_2_DA
+<p align="center">
+  <img src="src/stock-market-6531146_1280.jpg">
+</p>
 
-## Cryptocurrency Market Data Analytics
+<h1 align="center"> PROYECTO INDIVIDUAL N°2</h1>
+
+<h2 align="center">Cryptocurrency Market Data Analytics</h2>
 
 <hr>
 
