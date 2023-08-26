@@ -24,6 +24,8 @@
 
   📈**plotly**:  Biblioteca de visualización de datos en Python que permite crear gráficos y visualizaciones de manera efectiva.
 
+  Para tener una mejor apreciacion de las graficas se recomienda ejecutar los codigos desde un jupyter notebook
+
 
 # Análisis de Datos del Mercado de Criptomonedas
 
