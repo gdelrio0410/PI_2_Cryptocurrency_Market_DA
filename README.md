@@ -8,7 +8,7 @@
 
 <hr>
 
-## Requerimientos para el proyecto
+# Requerimientos para el proyecto
 
 <p align="justify">
 
@@ -87,10 +87,10 @@ Dogecoin (DOGE) comenzó como una criptomoneda de broma basada en un popular mem
 Solana (SOL) es una blockchain de alto rendimiento diseñada para aplicaciones descentralizadas y finanzas descentralizadas (DeFi). Ofrece una escalabilidad excepcionalmente rápida y tarifas bajas a través de su arquitectura única. Solana se ha destacado en el espacio DeFi debido a su capacidad para manejar una gran cantidad de transacciones a alta velocidad.
 
 
-## En Conclusión
-El análisis de datos realizado arroja luz sobre el mercado de criptomonedas y sus tendencias. Se ofrecen recomendaciones basadas en los hallazgos, incluidas estrategias potenciales de inversión y formas de gestionar los riesgos asociados. Es importante tener en cuenta la volatilidad y la naturaleza cambiante de este mercado al considerar cualquier decisión de inversión.
+## Conclusión
+El análisis de datos realizado un panorama muy amplio de como esta el mercado de la cripto moneda y su volatilidad que tiene, donde las fluctuaciones de precios son una constante. Los indicadores clave de desempeño, como la capitalización de mercado, la variación de precios promedio y la volatilidad de las monedas, han sido minuciosamente examinados para brindar una perspectiva completa sobre la salud y las oportunidades en este espacio. 
 
-Este informe busca proporcionar información valiosa a inversores, entusiastas y empresas interesadas en comprender mejor el emocionante y desafiante mundo de las criptomonedas.
+La selección cuidadosa de las criptomonedas para el análisis ha permitido destacar la diversidad y el alcance del mercado, desde la emblemática Bitcoin hasta monedas emergentes como Solana y Dogecoin. Cada una de estas monedas ha sido presentada con su caso de uso, resaltando su importancia en el ecosistema cripto.
 
 
 
